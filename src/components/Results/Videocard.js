@@ -1,13 +1,16 @@
 import React from 'react'
 import './Videocard.css'
 
-function Videocard({img, description, title, likes}) {
+function Videocard({movie}) {
+    const img_base_url = "https://image.tmdb.org/t/p/original/";
     return (
         <div className="vid-card">
-            <img src={img} alt="" />
-            <p>{description}</p>
-            <h2>{title}</h2>
-            <p>{likes}</p>
+            <img src={
+                `${img_base_url}${movie.backdrop_path}`
+            } alt="" />
+            <p></p>
+            <h2></h2>
+            <p></p>
         </div>
     )
 }
