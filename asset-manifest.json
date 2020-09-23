@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/hulu/static/css/main.fd4f8181.chunk.css",
-    "main.js": "/hulu/static/js/main.717c65b9.chunk.js",
-    "main.js.map": "/hulu/static/js/main.717c65b9.chunk.js.map",
+    "main.css": "/hulu/static/css/main.560e8c49.chunk.css",
+    "main.js": "/hulu/static/js/main.01e36061.chunk.js",
+    "main.js.map": "/hulu/static/js/main.01e36061.chunk.js.map",
     "runtime-main.js": "/hulu/static/js/runtime-main.01145d28.js",
     "runtime-main.js.map": "/hulu/static/js/runtime-main.01145d28.js.map",
-    "static/js/2.8232d0e4.chunk.js": "/hulu/static/js/2.8232d0e4.chunk.js",
-    "static/js/2.8232d0e4.chunk.js.map": "/hulu/static/js/2.8232d0e4.chunk.js.map",
+    "static/js/2.7f90eadb.chunk.js": "/hulu/static/js/2.7f90eadb.chunk.js",
+    "static/js/2.7f90eadb.chunk.js.map": "/hulu/static/js/2.7f90eadb.chunk.js.map",
     "index.html": "/hulu/index.html",
-    "precache-manifest.d7f5506b0c4afdb8f577026965a71a44.js": "/hulu/precache-manifest.d7f5506b0c4afdb8f577026965a71a44.js",
+    "precache-manifest.61966bc7160b372de428253dd51167b4.js": "/hulu/precache-manifest.61966bc7160b372de428253dd51167b4.js",
     "service-worker.js": "/hulu/service-worker.js",
-    "static/css/main.fd4f8181.chunk.css.map": "/hulu/static/css/main.fd4f8181.chunk.css.map",
-    "static/js/2.8232d0e4.chunk.js.LICENSE.txt": "/hulu/static/js/2.8232d0e4.chunk.js.LICENSE.txt"
+    "static/css/main.560e8c49.chunk.css.map": "/hulu/static/css/main.560e8c49.chunk.css.map",
+    "static/js/2.7f90eadb.chunk.js.LICENSE.txt": "/hulu/static/js/2.7f90eadb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.01145d28.js",
-    "static/js/2.8232d0e4.chunk.js",
-    "static/css/main.fd4f8181.chunk.css",
-    "static/js/main.717c65b9.chunk.js"
+    "static/js/2.7f90eadb.chunk.js",
+    "static/css/main.560e8c49.chunk.css",
+    "static/js/main.01e36061.chunk.js"
   ]
 }
