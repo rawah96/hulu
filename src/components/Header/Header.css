@@ -1,6 +1,5 @@
 .header {
     display: flex;
-    background: black;
     align-items: center;
     color: white;
     justify-content: space-between;
@@ -12,6 +11,15 @@
     object-fit: contain;
     height: 80px;
     cursor: pointer;
+}
+
+.header::-webkit-scrollbar {
+    display: none;
+}
+
+.header {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
 }
 
 .icons {
@@ -31,6 +39,13 @@
     font-size: 30px;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 15px;
+}
+
+
+/* always show this one as inline */
+.icon--active > p {
+    display: inline-flex !important;
 }
 
 .icon > p {

@@ -11,7 +11,8 @@ function Header() {
     return (
         <div className="header">
             <div className="icons">
-                <div className="icon">
+                <div className="icon 
+                icon--active">
                     <HomeIcon />
                     <p>home</p>
                 </div>
