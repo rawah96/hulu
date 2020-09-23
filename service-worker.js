@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hulu/precache-manifest.61966bc7160b372de428253dd51167b4.js"
+  "/hulu/precache-manifest.34dec713f81b8c1c5fcb00e56387b583.js"
 );
 
 self.addEventListener('message', (event) => {
