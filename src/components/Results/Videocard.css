@@ -1,0 +1,22 @@
+.vid-card {
+    color: white;
+    width: 420px;
+    height: 300px;
+    padding: 20px;
+    transition: transform 1s ease;
+}
+
+.vid-card > img {
+    height: 300px;
+    object-fit: contain;
+    width: 420px;
+}
+
+.vid-card:hover {
+    transform: scale(1.09);
+}
+
+.vid-card > h2 {
+    padding-top: 10px;
+}
+
