@@ -20,6 +20,7 @@ function Results() {
         <div className="results">
             {movies.map(movie => (
                 <Videocard 
+                id="movie"
                 movie={movie}
                 />
             ))}
